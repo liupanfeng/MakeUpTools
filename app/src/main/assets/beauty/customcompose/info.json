@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "materialType": 20,
+    "category": 4,
+    "displayName": "Lip",
+    "displayNameZhCn": "口红"
+  },
+  {
+    "id": 2,
+    "materialType": 20,
+    "category": 4,
+    "displayName": "Eyeshadow",
+    "displayNameZhCn": "眼影"
+  },
+  {
+    "id": 3,
+    "materialType": 20,
+    "category": 4,
+    "displayName": "Eyebrow",
+    "displayNameZhCn": "眉毛"
+  },
+  {
+    "id": 4,
+    "materialType": 20,
+    "category": 4,
+    "displayName": "Eyelash",
+    "displayNameZhCn": "睫毛"
+  },
+  {
+    "id": 5,
+    "materialType": 20,
+    "category": 4,
+    "displayName": "Eyeliner",
+    "displayNameZhCn": "眼线"
+  },
+  {
+    "id": 6,
+    "materialType": 20,
+    "category": 4,
+    "displayName": "Blusher",
+    "displayNameZhCn": "腮红"
+  },
+  {
+    "id": 7,
+    "materialType": 20,
+    "category": 4,
+    "displayName": "Brighten",
+    "displayNameZhCn": "高光"
+  },
+  {
+    "id": 8,
+    "materialType": 20,
+    "category": 4,
+    "displayName": "Shadow",
+    "displayNameZhCn": "修容"
+  }
+]

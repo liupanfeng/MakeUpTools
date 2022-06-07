@@ -1,0 +1,43 @@
+
+x
+java:S1192J"]Define a constant instead of duplicating this literal "fail to close bufferedReader" 3 times.(úÙä®üÿÿÿÿ
+\
+java:S1192="FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(€¯»Ê
+m
+java:S1192C"RDefine a constant instead of duplicating this literal "fail to read json" 3 times.(Èô÷“øÿÿÿÿ
+…
+java:S1319%"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰Ìò,
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ı¹†ôùÿÿÿÿ
+|
+java:S1488+"aImmediately return this expression instead of assigning it to the temporary variable "infoLists".(µ•Áûÿÿÿÿ
+c
+java:S2095Z"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‡¨ÅÊ
+b
+java:S2095u"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(«Ôİy
+d
+java:S20959"IUse try-with-resources or close this "InputStream" in a "finally" clause.(ğÈ÷Ëúÿÿÿÿ
+_
+java:S2583:"DChange this condition so that it does not always evaluate to "false"(ÇÑÅûÿÿÿÿ
+Z
+java:S2583v"DChange this condition so that it does not always evaluate to "false"(Ğ¤¨»
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ıî»ºûÿÿÿÿ
+A
+java:S1168("+Return an empty collection instead of null.(¥¹ï
+O
+java:S4719="9Replace charset name argument with StandardCharsets.UTF_8(€¯»Ê
+E
+java:S20938"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+O
+java:S4719["9Replace charset name argument with StandardCharsets.UTF_8(€¯»Ê
+E
+java:S2093Y"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+O
+java:S4719x"9Replace charset name argument with StandardCharsets.UTF_8(€¯»Ê
+E
+java:S2093t"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+h	java:S116œ"RRename this field "name_Zh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùúÍµ
+i	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§´îºúÿÿÿÿ
+K
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš

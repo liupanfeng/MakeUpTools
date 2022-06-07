@@ -1,0 +1,83 @@
+//        /**
+    //         * 这个跟人脸240点位相关，如果使用240点位，必须加这个否则可能导致不生效
+    //         * This is related to the 240 points of the face.
+    //         * If 240 points are used, this must be added, otherwise it may not take effect.
+    //         */
+    //        val pePath = "assets:/facemode/ms/240/pe240_ms_v1.0.1.dat"
+    //        val peSuccess = NvsStreamingContext.setupHumanDetectionData(
+    //            NvsStreamingContext.HUMAN_DETECTION_DATA_TYPE_PE240,
+    //            pePath
+    //        )
+    //        "ms240 peSuccess-->$peSuccess".logD()
+
+
+    //        val segPath = "assets:/facemode/ms/ms_humanseg_v1.0.7.model"
+    //        val segSuccess = NvsStreamingContext.initHumanDetectionExt(
+    //            App.getContext(),
+    //            segPath, null, NvsStreamingContext.HUMAN_DETECTION_FEATURE_SEGMENTATION_BACKGROUND
+    //        )
+    //
+    //        "ms segSuccess-->$segSuccess".logD()
+
+
+    //        /**
+    //         * 半身人像背景分割模型，半身的时候效果比较好
+    //         * Half-length portrait background segmentation model, the effect is better when half-length
+    //         */
+    //        val halfBodyPath = "assets:/facemode/ms/ms_halfbodyseg_v1.0.6.model"
+    //        val halfBodySuccess = NvsStreamingContext.initHumanDetectionExt(
+    //            applicationContext,
+    //            halfBodyPath, null, NvsStreamingContext.HUMAN_DETECTION_FEATURE_SEGMENTATION_HALF_BODY
+    //        )
+    //        "ms halfBodySuccess-->$halfBodySuccess".logD()
+
+
+
+    //        val segSkyPath = "assets:/facemode/ms/ms_skyseg_v1.0.0.model"
+    //        val segSkySuccess = NvsStreamingContext.initHumanDetectionExt(
+    //            App.getContext(),
+    //            segSkyPath, null, NvsStreamingContext.HUMAN_DETECTION_FEATURE_SEGMENTATION_SKY
+    //        )
+    //
+    //        "ms segSkySuccess-->$segSkySuccess".logD()
+
+
+    //        val handPath = "assets:/facemode/ms/ms_hand_v1.0.0.model"
+    //        val handSuccess = NvsStreamingContext.initHumanDetectionExt(
+    //            App.getContext(),
+    //            handPath,
+    //            null,
+    //            NvsStreamingContext.HUMAN_DETECTION_FEATURE_HAND_LANDMARK or NvsStreamingContext.HUMAN_DETECTION_FEATURE_HAND_ACTION
+    //        )
+    //
+    //        "ms handSuccess-->$handSuccess".logD()
+
+
+    //        /**
+    //         * avatar表情
+    //         * Avatar look
+    //         */
+    //        modelPath = rootDir.toString() + "/facemode/common/ms_expression_v1.0.2.model"
+    //        faceModelName = "ms_expression_v1.0.2.model"
+    //        val expressionModel = "facemode/common"
+    //        FileUtils.copyFileIfNeed(this@MainActivity, faceModelName, expressionModel)
+    //        NvsStreamingContext.initHumanDetectionExt(
+    //            App.getContext(),
+    //            modelPath,
+    //            null,
+    //            NvsStreamingContext.HUMAN_DETECTION_FEATURE_AVATAR_EXPRESSION
+    //        )
+
+
+    //        /**
+    //         * 假脸模型初始化
+    //         * The fake Face model is initialized
+    //         */
+    //        val fakeFacePath = "assets:/facemode/common/fakeface.dat"
+    //        val fakefaceSuccess =
+    //            NvsStreamingContext.setupHumanDetectionData(
+    //                NvsStreamingContext.HUMAN_DETECTION_DATA_TYPE_FAKE_FACE,
+    //                fakeFacePath
+    //            )
+    //
+    //        "fakefaceSuccess-->$fakefaceSuccess".logD()

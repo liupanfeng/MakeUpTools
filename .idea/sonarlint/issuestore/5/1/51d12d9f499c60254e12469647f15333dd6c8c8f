@@ -1,0 +1,24 @@
+
+>
+java:S1643F"Use a StringBuilder instead.(ØîÙèýÿÿÿÿ8ëÆ’¥‘0
+9
+java:S1643G"Use a StringBuilder instead.(æ€Þ¬8ëÆ’¥‘0
+k
+java:S1104"PMake code a static final constant or non-public and provide accessors if needed.(¥Ï‡Øøÿÿÿÿ
+E
+java:S1444"*Make this "public static code" field final(¥Ï‡Øøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýô¾•þÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(¸…â€
+8
+java:S2386"Make this member "protected".(¥Ï‡Øøÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ú¡ò‹
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Æ•±Üþÿÿÿÿ
+@
+java:S1197*"*Move the array designators [] to the type.(ª¦Ûü
+F
+java:S1197@"*Move the array designators [] to the type.(ô¸¤}8ÆÇ’¥‘0
+D
+java:S2140^")Use "java.util.Random.nextInt()" instead.(ŸØÞïüÿÿÿÿ

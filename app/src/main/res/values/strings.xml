@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MakeUpTools</string>
+
+    <string name="get_pert_permission">获取部分权限</string>
+    <string name="deny_permisson">被永久拒绝授权，请手动授予录音和日历权限</string>
+    <string name="get_permission_error">获取读写权限失败</string>
+
+</resources>

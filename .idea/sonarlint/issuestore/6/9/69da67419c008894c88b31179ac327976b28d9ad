@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýô¾•þÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(µÖ£÷
+I
+java:S1874".Remove this use of "locale"; it is deprecated.(ÖÚªÕýÿÿÿÿ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(÷²™®

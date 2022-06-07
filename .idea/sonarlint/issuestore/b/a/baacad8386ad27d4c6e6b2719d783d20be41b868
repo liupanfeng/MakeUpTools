@@ -1,0 +1,33 @@
+
+J
+java:S3740e"/Provide the parametrized type for this generic.(•ş§Œüÿÿÿÿ
+h
+java:S2095~"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(ÅÅÜ‚
+[
+java:S2095`"EUse try-with-resources or close this "ZipFile" in a "finally" clause.(§‹¿
+}
+java:S3008"bRename this field "SDK_FILE_ROOT_DIRECTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù„ÓÈøÿÿÿÿ
+u
+java:S3008"_Rename this field "CREASH_LOG_DIRECTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¬šÍ
+y
+java:S3008"cRename this field "ASSET_DOWNLOAD_DIRECTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Úı
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÏğğÊúÿÿÿÿ
+U	java:S899.";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S4042."NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+U	java:S8990";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S40420"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(Á¼™¹ÿÿÿÿÿ
+U	java:S899C";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S4042C"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+Y
+java:S1874N"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(ùìûó
+C
+java:S2201p"(The return value of "trim" must be used.(ØÔìùÿÿÿÿ
+B
+java:S1068"'Remove this unused "TAG" private field.(ÄÛÛúÿÿÿÿ
+R
+java:S1068"<Remove this unused "ASSET_DOWNLOAD_DIRECTORY" private field.(¤Úı

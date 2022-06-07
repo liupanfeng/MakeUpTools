@@ -1,0 +1,5 @@
+rootProject.name = "MakeUpTools"
+include ':app'
+include ':libMakeup'
+include ':libCommon'
+include ':libBase'
